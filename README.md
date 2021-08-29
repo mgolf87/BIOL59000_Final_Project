@@ -1,5 +1,5 @@
 # BIOL59000_Final_Project
-Repository for the A and B domain sequence data used in my BIOL59000 final project, as well as some code for finding the chromosome and domain sizes
+Repository for the A and B domain sequence data used in the BIOL59000 final project. As well as some code for finding the chromosome and domain sizes from the MEGABASE T-helper17cell cell line
 
 #### B59_C6_ADomSeq and B59_C6_BDomSeq
 Text files formated in fasta via >hur_chr6_484_+ where "hur" = Human Reference Genome; "chr6" = Chromosome 6; 
